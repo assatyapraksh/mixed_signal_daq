@@ -1,0 +1,17 @@
+# Simulation executables
+a.out
+
+# Waveforms
+*.vcd
+
+# Log files
+*.log
+
+# Verilator generated files
+obj_dir/
+
+# Backup files
+*~
+
+# Temporary files
+*.tmp
