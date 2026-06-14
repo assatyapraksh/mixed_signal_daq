@@ -15,3 +15,6 @@ obj_dir/
 
 # Temporary files
 *.tmp
+
+# Simulation output executables
+*.out
